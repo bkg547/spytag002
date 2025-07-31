@@ -1,0 +1,9 @@
+
+# Ignore compressed files
+*.zip
+
+# Ignore Colab progress log
+.upload_progress.log
+
+# Ignore Jupyter/Colab checkpoints
+.ipynb_checkpoints/
